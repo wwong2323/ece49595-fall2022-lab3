@@ -1,2 +1,3 @@
 1. In a non-Agile project, a project manager is like a product owner. The importance of a product owner in terms of agile methdology is that the product owner sets the direction for the team and also handles both the stakeholder and realase managerial situations.
 2. The roles of the Scrum Master is  to facilitae sprints and meetings and all the scrum tasks such as standups.
+3. Three types of meetings that occur during a sprint cycle is a sprint planning, short meeting before sprint, and discuss work at end of sprint. Two things that are discussed are work they completed or plan on, and what work they did complete and what they have to backlog.
