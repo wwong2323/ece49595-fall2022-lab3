@@ -1,0 +1,1 @@
+1. In a non-Agile project, a project manager is like a product owner. The importance of a product owner in terms of agile methdology is that the product owner sets the direction for the team and also handles both the stakeholder and realase managerial situations.
